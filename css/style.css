@@ -55,4 +55,10 @@ span{
     border-radius: 10px;
 }
 
-
+.subscribe{
+    height: 300px;
+    background-color:#FFF9F4 ;
+}
+.submit-button{
+    height: 34px;
+}
