@@ -22,9 +22,6 @@ padding-right: 20px;
     border-radius: 8px;
     height: 50px;
 }
-.top-text{
-    font-family:'Inter', sans-serif;
-}
 .link-button img{
     width: 15%;
 }
@@ -38,7 +35,3 @@ span{
 
 
 
-
-.col-sm{
-    border: 2px solid red;
-}
