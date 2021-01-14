@@ -43,7 +43,12 @@ span{
 }
 
 .icon-gutter{
-    width: 70%;
+    width: 50%;
+}
+.gutter-box {
+    border: 0;
+    border-radius: 10px;
+    
 }
 
 
