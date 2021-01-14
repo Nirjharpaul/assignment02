@@ -1,4 +1,4 @@
-* {
+body {
     font-family: 'Inter', sans-serif;
 }
 
@@ -8,4 +8,36 @@ padding-right: 20px;
 }
 .navigation{
     background-color: #FFF9F4;
+}
+
+.top-section{
+    background-color:#FFF9F4 ;
+    height: 500px;
+}
+
+.link-button{
+    background-color:#3848d1 ;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+}
+.top-text{
+    font-family:'Inter', sans-serif;
+}
+.link-button img{
+    width: 15%;
+}
+span{
+    color: tomato;
+}
+
+
+
+
+
+
+
+
+.col-sm{
+    border: 2px solid red;
 }
